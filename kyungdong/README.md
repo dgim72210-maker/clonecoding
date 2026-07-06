@@ -75,6 +75,8 @@ git clone https://github.com/사용자아이디/저장소명.git
 ```bash
 cd 저장소명
 ```
+1.웹사이트 주소
+https://dgim72210-maker.github.io/clonecoding/
 
 3. `index.html` 파일을 브라우저에서 실행합니다.
 

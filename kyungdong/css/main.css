@@ -25,6 +25,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background: #bd1298;
 }
 
 #header h1 {
